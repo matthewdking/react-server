@@ -2,3 +2,19 @@
   color: blue;
   font-family: Helvetica;
 }
+
+img {
+  width: 400px;
+  height: 400px;
+  padding: 50px;
+}
+
+.students {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+p {
+  text-align: center;
+}
